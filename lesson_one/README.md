@@ -41,4 +41,4 @@
 ## Question[5] : Write a simple function which can detect whether a number is a multiple of two or three. If it is a multiple of two return "is a multiple of two", if its not and is a multiple of three return "is a multiple of three" elseif its not a multiple of either? just return "Its neither a multiple of two or three" and if its a multiple of both? return "is a multiple of two and three"
 
 
-# GoodLuck ! Happy coding :thumb:
+# GoodLuck ! Happy coding :wink:
